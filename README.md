@@ -16,7 +16,7 @@ https://github.com/xiaozhaozhao-stack/android-ui-tree-review-collector
 
 ## 项目一句话
 
-本仓库是 **Android UI Tree Review Collector** 的支线数据仓库，用于展示蒙牛公开评论数据包、TXT/JSON 清洗报告、字段来源统计、样例评论和最终有效语料规模。
+本仓库是 **Android UI Tree Review Collector** 的支线数据仓库，用于展示公开评论数据包、TXT/JSON 清洗报告、字段来源统计、样例评论和最终有效语料规模。
 
 主库负责：
 

@@ -74,24 +74,6 @@ JSON 字段抽取结果
 这就是这个数据仓库最核心的价值：  
 **不是“我有数据”，而是“我把一大堆脏数据清洗成了可以用于分析的有效语料”。**
 
----
-
-## 数据清洗流程图
-
-如果你上传了流程图，可以放在这里：
-
-```markdown
-![Dataset Cleaning Funnel](assets/dataset-cleaning-funnel.png)
-```
-
-建议图片文件名：
-
-```text
-assets/dataset-cleaning-funnel.png
-```
-
----
-
 ## 数据包里到底有什么
 
 本仓库展示的数据包包含：

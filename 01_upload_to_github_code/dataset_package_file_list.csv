@@ -1,0 +1,132 @@
+﻿path_in_release_asset,file_type,size_bytes
+.gitignore,repository_doc,291
+data/cantonese_traditional_comments.txt,dataset_report_or_sample,1517
+data/file_manifest.csv,dataset_report_or_sample,14289
+data/json_comments/all_json_comments_merged.txt,json_comment_summary_or_report,2822857
+data/json_comments/by_folder/8标签中俩 伊利金典鲜牛奶 全脂950 27.9定期购巴氏杀菌 jd差一个好评200.txt,cleaned_json_comment_by_folder,59352
+data/json_comments/by_folder/beihaidao htv.txt,cleaned_json_comment_by_folder,45435
+data/json_comments/by_folder/gmmi伊美153 瑞士.txt,cleaned_json_comment_by_folder,42104
+data/json_comments/by_folder/jd金典鲜牛奶4.0g235ml4一个规格不同标签下的200 23.9元.txt,cleaned_json_comment_by_folder,52508
+data/json_comments/by_folder/json api.txt,cleaned_json_comment_by_folder,28017
+data/json_comments/by_folder/【年货必买】特仑苏纯牛奶16盒.txt,cleaned_json_comment_by_folder,114098
+data/json_comments/by_folder/三元3.3g蛋白特品纯牛奶250 24盒 49.9 6月.txt,cleaned_json_comment_by_folder,7885
+data/json_comments/by_folder/三元北京鲜牛奶900mL 9.9 72°叮咚买菜.txt,cleaned_json_comment_by_folder,1525
+data/json_comments/by_folder/三元极致250ml16盒子3.6g29.85.txt,cleaned_json_comment_by_folder,130504
+data/json_comments/by_folder/三元极致3.8g乳蛋白原生高钙巴氏杀菌有机鲜牛奶240ml9.12小象超市.txt,cleaned_json_comment_by_folder,16550
+data/json_comments/by_folder/三元极致有机纯牛奶200mL10盒箱29.9物美.txt,cleaned_json_comment_by_folder,1081
+data/json_comments/by_folder/三元极致有机鲜牛奶900ml7天19.9小象超市.txt,cleaned_json_comment_by_folder,12650
+data/json_comments/by_folder/三元特品脱脂纯牛奶整箱250ml24盒 0脂肪 健身搭档 整箱送礼.txt,cleaned_json_comment_by_folder,188757
+data/json_comments/by_folder/京东三元极致200ml10盒96.85.txt,cleaned_json_comment_by_folder,20733
+data/json_comments/by_folder/伊利6月.txt,cleaned_json_comment_by_folder,243107
+data/json_comments/by_folder/伊利纯牛奶 24盒每箱 订买菜 39.5元.txt,cleaned_json_comment_by_folder,17605
+data/json_comments/by_folder/伊利臻浓牛奶高钙16盒早餐搭档 伊利牛奶礼盒营养丰富 3月产 250ml16盒箱.txt,cleaned_json_comment_by_folder,133803
+data/json_comments/by_folder/伊利金典3.6g蛋白原生高钙纯牛奶250ml12盒42.8.txt,cleaned_json_comment_by_folder,48863
+data/json_comments/by_folder/伊利金典纯牛奶200ml12.txt,cleaned_json_comment_by_folder,86301
+data/json_comments/by_folder/伊利金典鲜牛奶 一个标签还有6个每个模块两百.txt,cleaned_json_comment_by_folder,41357
+data/json_comments/by_folder/优倍0脂鲜牛奶950ml小象超市位置上海 只有好评没有其他标签 然后弹验证后就进不去网络失败了.txt,cleaned_json_comment_by_folder,7916
+data/json_comments/by_folder/优然牧业纯牛奶250ml24盒整箱 3.2g优质乳蛋白 0添加 礼盒装 4月产 250ml24盒箱2箱.txt,cleaned_json_comment_by_folder,31108
+data/json_comments/by_folder/保利 澳大利亚.txt,cleaned_json_comment_by_folder,9006
+data/json_comments/by_folder/光明优培有机小象.txt,cleaned_json_comment_by_folder,11731
+data/json_comments/by_folder/光明纯牛奶营养早餐奶浓醇营养餐纯牛奶家庭囤货装大规格送礼200ml24盒2箱.txt,cleaned_json_comment_by_folder,34143
+data/json_comments/by_folder/北海道函馆3.7牛奶1000ml44.90.txt,cleaned_json_comment_by_folder,13242
+data/json_comments/by_folder/唯品会特仑苏有机纯牛奶 好评标签 这一宽规格 刷时候吃饭功夫自己闪退了.txt,cleaned_json_comment_by_folder,9516
+data/json_comments/by_folder/大阿苏牛乳1000ml乘3 63.0.txt,cleaned_json_comment_by_folder,11906
+data/json_comments/by_folder/小象定位上海39.9元一箱伊利3.2g乳蛋白纯牛奶200 24.txt,cleaned_json_comment_by_folder,0
+data/json_comments/by_folder/悦鲜活a2b 酪蛋鲜牛奶950 叮咚 19.9.txt,cleaned_json_comment_by_folder,22619
+data/json_comments/by_folder/普通月线活250ml 叮咚.txt,cleaned_json_comment_by_folder,12139
+data/json_comments/by_folder/河马三元极致7天有机奶.txt,cleaned_json_comment_by_folder,9321
+data/json_comments/by_folder/特仑苏.txt,cleaned_json_comment_by_folder,77459
+data/json_comments/by_folder/特仑苏240ml16京东6月.txt,cleaned_json_comment_by_folder,507266
+data/json_comments/by_folder/特仑苏3.6蛋白 多点.txt,cleaned_json_comment_by_folder,1131
+data/json_comments/by_folder/特仑苏京东 6月两种规格重叠.txt,cleaned_json_comment_by_folder,0
+data/json_comments/by_folder/特仑苏全脂牛奶 京东.txt,cleaned_json_comment_by_folder,243692
+data/json_comments/by_folder/特仑苏口感生香爬到  保存了.txt,cleaned_json_comment_by_folder,385680
+data/json_comments/by_folder/特仑苏有机3.8g250 10 59.9小象 6月.txt,cleaned_json_comment_by_folder,10268
+data/json_comments/by_folder/特仑苏有机整箱纯牛奶梦幻盖250ml24包唯品会.txt,cleaned_json_comment_by_folder,24330
+data/json_comments/by_folder/特仑苏纯牛奶250ml8hktv.txt,cleaned_json_comment_by_folder,8996
+data/json_comments/by_folder/盒马三元北京鲜牛奶72度900ml.txt,cleaned_json_comment_by_folder,9587
+data/json_comments/by_folder/纽仕兰新西兰草饲4.0g蛋白高钙全脂纯牛奶100生牛乳250ml24盒.txt,cleaned_json_comment_by_folder,101578
+data/json_comments/by_folder/蒙牛6月jd2箱250ml18259.9.txt,cleaned_json_comment_by_folder,70414
+data/json_comments/by_folder/蒙牛京东250ml18盒6月纯牛奶系列.txt,cleaned_json_comment_by_folder,73295
+data/json_comments/by_folder/蒙牛精选牧场纯牛奶全脂灭菌乳250mlx12盒 年货礼盒装.txt,cleaned_json_comment_by_folder,316546
+data/json_comments/by_folder/蒙牛纯牛奶利乐枕240ml16小象25.txt,cleaned_json_comment_by_folder,13340
+data/json_comments/by_folder/黑白纯牛奶1升装常温奶hktv.txt,cleaned_json_comment_by_folder,34123
+data/json_comments/cantonese_traditional_json_comments.txt,json_comment_summary_or_report,158122
+data/json_comments/json_comment_field_report.csv,json_comment_summary_or_report,167
+data/json_comments/json_comment_processing_report.csv,json_comment_summary_or_report,10016
+data/json_comments/sample_json_comments.txt,json_comment_summary_or_report,42460
+data/processed/180天 119.8元12月日期特仑苏有机纯牛奶全脂灭菌乳利乐梦幻盖250ml10盒2箱119-27.txt,cleaned_txt_comment_file,3493
+data/processed/180天 49.9元特仑苏有机苗条装全脂259mlx12盒123箱 460全部-347折叠.txt,cleaned_txt_comment_file,4082
+data/processed/180天 59.7元卷后49.7 1升大容量精选牧场原生高钙1000ml3瓶131-83.txt,cleaned_txt_comment_file,3377
+data/processed/180天 79.9 蒙牛纯牛奶全脂灭菌 200mlx10四箱 全部652-折叠417.txt,cleaned_txt_comment_file,12625
+data/processed/180天 79.9元蒙牛纯牛奶全脂利乐钻200ml×10包×46箱403-76.txt,cleaned_txt_comment_file,17513
+data/processed/180天 79元蒙牛未来星专护儿童配方奶全脂梦幻盖200ml×10瓶95-67.txt,cleaned_txt_comment_file,1671
+data/processed/180天 89.4元赠肖战海报蒙牛精选牧场原生高钙纯牛奶1000ml×6瓶144-59.txt,cleaned_txt_comment_file,6420
+data/processed/180天 牧场原生高钙纯牛奶250ml10瓶99.8 3867-2456.txt,cleaned_txt_comment_file,61845
+data/processed/180天1月新希望纯牛奶250g24盒云南高原奶整箱早餐纯奶带提手送礼pdd.txt,cleaned_txt_comment_file,44488
+data/processed/180天新希望250g24盒纯牛奶新希望高原牧场邓川纯牛奶云南老字号pdd.txt,cleaned_txt_comment_file,73911
+data/processed/180天生牛乳 特仑苏全脂灭菌利乐苗条200mkx12盒2箱 90元2039-1591折叠.txt,cleaned_txt_comment_file,15592
+data/processed/180天生牛乳 蒙牛纯奶200mlx10 3口味1到2箱全部评价 40.8 1045-463折叠.txt,cleaned_txt_comment_file,27823
+data/processed/1万2 10324 3产品悦鲜活.txt,cleaned_txt_comment_file,79761
+data/processed/1万2 10324折叠 2拍悦鲜活.txt,cleaned_txt_comment_file,80950
+data/processed/1万7 12698 折叠 1牌 悦鲜活.txt,cleaned_txt_comment_file,173257
+data/processed/200ml16袋蒙牛早餐奶抖音30天.txt,cleaned_txt_comment_file,32529
+data/processed/22.9蒙牛200ml纯牛奶抖音总销售1913  45tian.txt,cleaned_txt_comment_file,14396
+data/processed/3月 49.8元 1月日期蒙牛专利优骨配方软牛奶全脂调制乳梦幻盖200ml×10包 61-34.txt,cleaned_txt_comment_file,1443
+data/processed/45天早餐奶蒙牛.txt,cleaned_txt_comment_file,14820
+data/processed/5965 5119折叠产品4.txt,cleaned_txt_comment_file,33206
+data/processed/5月 42元 果粒酸奶纯甄蓝莓黄桃草莓果粒风味捏捏酸奶150g12袋 总共2094-折叠1676.txt.txt,cleaned_txt_comment_file,17759
+data/processed/6月 115.9元 新品8包分享装组合特仑苏纯牛奶利乐钻+嗨milk CBP高钙 共3箱 48-14.txt,cleaned_txt_comment_file,1640
+data/processed/6月 154.9元 加量升级特仑苏A2β-酪蛋白纯牛奶200ml×20盒×2箱28-19.txt,cleaned_txt_comment_file,528
+data/processed/6月 160元蒙牛经典全脂纯牛奶利乐包250ml16包四箱 95-64.txt,cleaned_txt_comment_file,1594
+data/processed/6月 191.9元 4箱蒙牛软牛奶全脂调制乳200ml×10×2加蒙牛纯牛奶钻包200ml10 2 161-91.txt,cleaned_txt_comment_file,3731
+data/processed/6月 199.9元1月日期特仑苏沙漠·有机纯牛奶苗条装250ml×12盒×4箱 50-26.txt,cleaned_txt_comment_file,1499
+data/processed/6月 1月日期 蒙牛软牛奶全脂调制乳利乐钻200ml×10盒 39.9元 生牛乳大于等于99 3004-折叠2105.txt,cleaned_txt_comment_file,43992
+data/processed/6月 22元 测试了综合与最新文本一致只是时间排序不同 蒙牛牛奶花生双蛋白饮品200mlx12盒  全部评价1640-折叠1284.txt,cleaned_txt_comment_file,17509
+data/processed/6月 29.9 蒙牛益生元牛奶全脂调制乳钻包200mlx10包全部694-518折叠.txt,cleaned_txt_comment_file,7505
+data/processed/6月 29.9元蒙牛维生素牛奶全脂调制乳钻包200mlx10包全部613-折叠475.txt,cleaned_txt_comment_file,6887
+data/processed/6月 32元 新品8包分享装-4月日期特仑苏纯牛奶全脂利乐钻200ml8盒1箱75-17.txt,cleaned_txt_comment_file,2925
+data/processed/6月 39.9元蒙牛早餐奶红枣味250ml16盒159-116.txt,cleaned_txt_comment_file,2404
+data/processed/6月 45元 特仑苏高钙牛奶全脂调制乳梦幻盖250ml10盒1到2箱 80-49.txt,cleaned_txt_comment_file,919
+data/processed/6月 49.9元 蒙牛新养道优益0乳糖牛奶中老年低GI全脂调制乳200ml×10包123-84.txt,cleaned_txt_comment_file,2132
+data/processed/6月 49.9元1月日期特仑苏嗨MILK CBP高钙牛奶200mL×10包×1箱330-208.txt,cleaned_txt_comment_file,6510
+data/processed/6月 49.9元1月日期蒙牛三重益生元配方软牛奶全脂调制乳梦幻盖200ml10包117-58.txt.txt,cleaned_txt_comment_file,2543
+data/processed/6月 49.9元1月生产特仑苏嗨MILK多维牛奶200mL10 包1箱MN113-47.txt,cleaned_txt_comment_file,3177
+data/processed/6月 49.9元2月日期蒙牛高钙软牛奶全脂调制乳钻包200ml×10包×12箱405-297.txt,cleaned_txt_comment_file,5158
+data/processed/6月 49.9元蒙牛新养道优骨0乳糖牛奶中老年低GI全脂调制乳200ml×10包304-220.txt,cleaned_txt_comment_file,4637
+data/processed/6月 49.9起1箱纯甄巴氏杀菌热处理凤梨口味风味酸牛乳利乐钻200g×10包60-39.txt,cleaned_txt_comment_file,605
+data/processed/6月 58元 12月特仑苏嗨MILK多维牛奶CBP高钙 O脂肪梦幻盖200ml×10盒 57-39.txt,cleaned_txt_comment_file,1386
+data/processed/6月 60元10盒特仑苏嗨MILK 0乳糖牛奶利乐梦幻盖200mLx10盒 x1箱20-11.txt,cleaned_txt_comment_file,403
+data/processed/6月 66元 特仑苏嗨MILK 钙铁锌牛奶利乐梦幻盖200mL x 10盒 x 1箱43-14.txt,cleaned_txt_comment_file,1554
+data/processed/6月 79.8 真果粒6口味的牛奶音频250g12盒2116-1882.txt,cleaned_txt_comment_file,10444
+data/processed/6月 79.9元特仑苏a2b 酪蛋白纯牛奶 200mlx20盒1箱 775全部-584折叠.txt,cleaned_txt_comment_file,10853
+data/processed/6月 89.9元特仑苏纯牛奶常温全脂灭菌利乐钻250ml×12盒×23箱75-23.txt,cleaned_txt_comment_file,2408
+data/processed/6月 91.9元特仑苏低脂纯牛奶利乐苗条装250ml×12盒×23箱228-119.txt,cleaned_txt_comment_file,5401
+data/processed/6月 99.9 有机 1月日期特仑苏沙漠·有机纯牛奶苗条装250ml×12盒x2 全部1372折叠1079.txt.txt,cleaned_txt_comment_file,12850
+data/processed/6月 特仑苏低脂纯牛奶部分脱脂灭菌乳250ml16盒2 3箱 全部483-374折叠.txt,cleaned_txt_comment_file,5057
+data/processed/6月 蒙牛精选牧场利乐钻250×12原生高钙全脂梦幻盖1箱 99.8 全部907-516折叠.txt,cleaned_txt_comment_file,18809
+data/processed/6月生牛乳 60 脱脂蒙牛脱脂纯牛奶0脂肪优质营养苗条装250ml24包 全部1802-折叠1467.txt,cleaned_txt_comment_file,14966
+data/processed/6月生牛乳加乳糖酶 49.9元12月生产特仑苏嗨MILK O脂肪牛奶200mL×10包×1箱136-73.txt,cleaned_txt_comment_file,3869
+data/processed/79.9 8023评价 6月蒙牛250mlx16包先箱子.txt,cleaned_txt_comment_file,228984
+data/processed/all_comments_merged.txt,dataset_report_or_sample,1933951
+data/processed/cantonese_traditional_comments.txt,dataset_report_or_sample,1517
+data/processed/milk_grouped_data.txt,cleaned_txt_comment_file,7496
+data/processed/processing_report.csv,dataset_report_or_sample,11338
+data/processed/sample_comments.txt,dataset_report_or_sample,13031
+data/processed/产品4悦鲜活.txt,cleaned_txt_comment_file,61588
+data/processed/伊利产品1pdd.txt,cleaned_txt_comment_file,279613
+data/processed/伊利产品1无折叠抖音.txt,cleaned_txt_comment_file,217724
+data/processed/悦鲜活1抖音.txt,cleaned_txt_comment_file,395177
+data/processed/早餐奶大果粒多多180天生椰调制乳200mlx12 39.9 4300条.txt,cleaned_txt_comment_file,281319
+data/processed/活动装xx全部口味酸乳蒙牛 2300＋2500的折叠评级=价.txt.txt,cleaned_txt_comment_file,81801
+data/processed/淘宝伊利.txt,cleaned_txt_comment_file,5298
+data/processed/肖战250ml 10瓶 高钙纯牛 180天.txt,cleaned_txt_comment_file,235377
+data/processing_report.csv,dataset_report_or_sample,11338
+data/sample_comments.txt,dataset_report_or_sample,13031
+FILES_INCLUDED.md,repository_doc,10628
+README.md,repository_doc,3030
+scripts/__pycache__/process_comments.cpython-315.pyc,processing_script,24994
+scripts/extract_json_comments.py,processing_script,10499
+scripts/process_comments.py,processing_script,14588
+release_assets/json_comments.zip,release_asset_zip_not_for_code,3643803
+release_assets/mengniu_public_comments_full_v0.1.zip,release_asset_zip_not_for_code,3675365
